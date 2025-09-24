@@ -1,0 +1,38 @@
+*{
+   font-family: 'Times New Roman', Times, serif;
+   padding: 5px;
+}
+h1{
+    
+    font-weight: bolder;
+    text-align: center;
+    text-transform: uppercase;
+    color: #77171f;
+    
+}
+.bg{
+    background-color: #77171f;
+    display: flex;
+    align-items: center;
+}
+.agg{
+    color: white;
+    text-align: right;
+    margin-left: 70%;
+}
+img.logo{
+    width: 90;
+    height: 90;
+}
+
+table{
+      border-collapse: collapse; /* fusionne les bordures */
+}
+td,th{
+    border: 2px solid #77171f ;
+}
+th{
+    background-color: #77171f;
+    color: white;
+    text-transform: uppercase;
+}
